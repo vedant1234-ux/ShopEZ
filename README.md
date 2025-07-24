@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🛍️ ShopEZ – Modern E-commerce Web App
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -164,11 +163,3 @@ Released under the [MIT License](LICENSE).
 ---
 
 Let me know if you want help generating GitHub Actions CI workflows, live preview deployments, or a more design-focused README version.
-
-"# ShopEZ" 
-"# ShopEZ" 
-"# ShopEZ"  
-"# ShopEZ"  
-=======
-# ShopEZ
->>>>>>> 616f3e54dbdc6376a477dce5c6e6d2112ea2e193
