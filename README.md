@@ -11,8 +11,7 @@
 
 <!-- Add your deployed link or screenshots here -->
 
-<!-- [View Live Demo](https://your-demo-url.com) -->
-
+**Live Demo:** [shop-ez.vercel.app](https://shop-ez.vercel.app)
 ---
 
 ## 💡 Purpose
