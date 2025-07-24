@@ -7,11 +7,8 @@
 
 ---
 
-## 🚀 Live Demo
-
-<!-- Add your deployed link or screenshots here -->
-
-**Live Demo:** [shop-ez.vercel.app](https://shop-ez.vercel.app)
+## 🚀 Live Demo 
+https://shop-ez-xi.vercel.app/
 ---
 
 ## 💡 Purpose
